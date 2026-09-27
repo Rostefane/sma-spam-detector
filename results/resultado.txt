@@ -1,0 +1,32 @@
+📊 Analisando resultados otimizados...
+
+============================================================
+📈 MÉTRICAS DO SISTEMA OTIMIZADO
+============================================================
+📊 Total de amostras: 1000
+✅ Amostras válidas: 1000
+❌ Amostras com erro: 0
+
+🎯 PERFORMANCE OTIMIZADA:
+   Acurácia: 0.870 (87.0%)
+   Precisão: 0.801 (80.1%)
+   Recall: 0.928 (92.8%)
+   F1-Score: 0.860 (86.0%)
+
+🔢 CONFUSION MATRIX:
+   True Positives (TP): 398
+   True Negatives (TN): 472
+   False Positives (FP): 99
+   False Negatives (FN): 31
+
+⏱️ TEMPO DE PROCESSAMENTO:
+   Tempo médio: 6.798s
+   Tempo total: 6797.6s
+
+🚪 SAÍDAS ANTECIPADAS:
+   Contagem: 0
+   Porcentagem: 0.0%
+
+🤖 ESTATÍSTICAS DOS AGENTES:
+   llm_classifier: 0.498 ± 0.350 (1000 amostras)
+   malicious_content: 0.024 ± 0.062 (1000 amostras)
